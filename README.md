@@ -200,7 +200,7 @@ Assignment-8-Category-A8-Apple/
 
 ```bash
 git clone 
-cd Assignment-8-Category-A8-Apple
+cd 
 npm install
 ```
 
