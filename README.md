@@ -199,8 +199,8 @@ Assignment-8-Category-A8-Apple/
 **Run Locally**
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/NourinDina395/web-course-assignment8.git
+cd web-course-assignment8
 npm install
 ```
 
@@ -255,6 +255,12 @@ Front-end Developer · Programming Hero Batch 13
 
 
 ---
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/NourinDina395/web-course-assignment8.git)
+
+[![Live Project](https://img.shields.io/badge/Live%20Project-Vercel-c9a84c?style=for-the-badge\&logo=vercel\&logoColor=white)](https://web-course-assignment8-h6uu.vercel.app/)
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0e0a,50:1a1915,100:c9a84c&height=120&section=footer)
 
